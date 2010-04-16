@@ -1,0 +1,1 @@
+This is the log file for the little application to play with.
