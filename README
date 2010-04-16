@@ -3,3 +3,5 @@
 2. I was able to create a basic git repository, create a file, add it to the local index, commit it and push it to the remote repository. Looks fairly simple and easy.
 
 3. I created a new local branch called "experimental" branch from the master branch and switched to this experimental branch. When I commit this changed file, will it only reflect in the experimental branch or will it reflect in the master branch also? Lets see
+
+4. Trying out my automated cherry pick script that cherry picks the given commit number into the other branches on the same repository.
